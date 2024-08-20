@@ -1,0 +1,6 @@
+User ID: 1, Name: Jerry Seinfeld, Borrowed Books: [Catch-22,Green Eggs And Ham]
+User ID: 2, Name: Elaine Bennis, Borrowed Books: []
+User ID: 3, Name: Niles Crane, Borrowed Books: []
+User ID: 4, Name: Daphne Moon, Borrowed Books: []
+User ID: 5, Name: Frasier Crane, Borrowed Books: []
+User ID: 6, Name: George Costanza, Borrowed Books: []

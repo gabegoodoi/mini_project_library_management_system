@@ -1,0 +1,6 @@
+Title: Harry Potter, Author: J.K. Rowling, Genre: fiction, Published On: 1999, Availability: Borrowed
+Title: The Lord of the Rings, Author: J.R. Tolkien, Genre: fiction, Published On: 1967, Availability: Available
+Title: Green Eggs And Ham, Author: Doctor Seuss, Genre: fiction, Published On: 1990, Availability: Borrowed
+Title: Catch-22, Author: Joseph Heller, Genre: fiction, Published On: 1962, Availability: Borrowed
+Title: Harry Potter 2, Author: J.K. Rowling, Genre: fiction, Published On: 2001, Availability: Available
+Title: Me Talk Pretty One Day, Author: David Sedaris, Genre: non-fiction, Published On: 2009, Availability: Available
