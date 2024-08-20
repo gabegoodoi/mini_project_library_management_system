@@ -204,7 +204,7 @@ TABLE OF CONTENTS:
       4. YearError
       5. LengthError
 
-8. - 10. BOOKS.TXT, USERS.TXT, AUTHORS.TXT
+8 - 10. BOOKS.TXT, USERS.TXT, AUTHORS.TXT
 
   The application's permanent databases are stored in these files
   
