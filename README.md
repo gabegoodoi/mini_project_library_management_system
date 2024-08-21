@@ -1,6 +1,20 @@
 This Repository is a mini-project for Coding Temple.
 
-TABLE OF CONTENTS:
+## INSTALLATIONS:
+
+```
+    git clone https://github.com/gabegoodoi/mini_project_library_management_system.git
+```
+
+## RUN APPLICATION
+
+```
+    cd mini_project_library_management_system
+```
+
+From your IDE of choice, select the run button from the main.py file.
+
+## TABLE OF CONTENTS:
 
 1.  main.py
 2.  user_interactions.py
