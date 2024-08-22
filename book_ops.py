@@ -1,3 +1,8 @@
+from object_classes import *
+from error_handling import *
+from file_handling import *
+import re
+
 class BookOperations:
     def book_ops_menu(user):
         print("\nWelcome to the Book Operations Menu!")

@@ -1,3 +1,6 @@
+import re
+from object_classes import *
+
 class FileHandling:
     
     def export_users(users_dict, file_name):

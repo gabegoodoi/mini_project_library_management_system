@@ -1,3 +1,7 @@
+from object_classes import *
+from error_handling import *
+import re
+
 class AuthorOperations:
     def author_ops_menu():
         print("\nWelcome to the Author Operations Menu!")
